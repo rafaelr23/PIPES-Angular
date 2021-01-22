@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "Pipes"
+  "defaultProject": "Pipes",
+  "cli": {
+    "analytics": false
+  }
 }
